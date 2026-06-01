@@ -1,0 +1,7 @@
+# Valkyrie runtime database (per-user memory, never committed)
+valkyrie.db
+*.db
+
+# Python
+__pycache__/
+*.pyc
